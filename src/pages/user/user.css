@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.userTable {
+  padding: 20px;
+  margin: 50px 10px;
+  border: 2px solid black;
+}
+.button {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.myuser {
+  display: flex;
+  align-items: center;
+}
+.userImage {
+  width: 50px;
+  border-radius: 1000px;
+  flex: end;
+  margin-right: 20px;
+}

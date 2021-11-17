@@ -1,0 +1,31 @@
+.featured {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+.card {
+  font-weight: bold;
+  box-shadow: 10px 9px 38px -9px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 9px 38px -9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 9px 38px -9px rgba(0, 0, 0, 0.75);
+  padding: 30px 60px;
+}
+.cardHeading {
+  color: blueviolet;
+}
+
+.cardRate {
+  padding-top: 10px;
+  display: flex;
+  align-items: center;
+}
+.cardNumber {
+  font-size: 30px;
+  padding-right: 20px;
+}
+.downarrow {
+  color: red;
+}
+.uparrow {
+  color: green;
+}

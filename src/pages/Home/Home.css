@@ -1,0 +1,9 @@
+.middle {
+  flex: 4;
+}
+.widgetsmlm {
+  margin: auto;
+  width: 93%;
+  display: flex;
+  justify-content: space-between;
+}

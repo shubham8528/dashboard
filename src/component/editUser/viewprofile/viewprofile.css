@@ -1,0 +1,8 @@
+.Viewuser {
+  border: 2px solid black;
+  display: flex;
+  align-items: center;
+}
+.userName {
+  padding-right: 40px;
+}

@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.chart {
+  border: 2px solid rgb(177, 177, 177);
+  padding: 30px;
+  width: 90%;
+  margin: 60px auto;
+}
